@@ -158,10 +158,10 @@ console.log(kidsWithCandies([4,2,1,1,2], 2))
 // Output: ""
  
 
-// const gcdOfStrings = (str1, str2)  => {
+const gcdOfStrings = (str1, str2)  => {
 
-// }
-// console.log(gcdOfStrings('ABABAB', 'ABAB'))
+}
+console.log(gcdOfStrings('ABABAB', 'ABAB'))
 
 
 
